@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+
+  & .sentence {
+    color: rgb(15, 153, 15);
+  }
+
+  & .wife {
+    color: palevioletred;
+  }
+}
